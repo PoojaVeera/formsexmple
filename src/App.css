@@ -1,7 +1,21 @@
 .App {
   text-align: center;
 }
-
+.form {
+  color: white;
+  background-color: blue;
+  height: auto;
+  width: auto;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+}
+.email {
+  color: black;
+}
+.password {
+  color: black;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
